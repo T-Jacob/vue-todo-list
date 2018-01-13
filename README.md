@@ -1,6 +1,7 @@
 # vue-example
 
 > A Vue.js project
+> CSS 飽きた
 
 ## Build Setup
 
