@@ -4,6 +4,10 @@
 
 > CSS 飽きた
 
+> https://github.com/vuejs-templates/webpack/issues/1200
+> こいつのおかげで npm run build できなかった
+> package.jsonの "uglifyjs-webpack-plugin": "^1.1.6"　バージョン上げて npm install すれば治った詳しくはわかんないファック！
+
 ## Build Setup
 
 ``` bash
